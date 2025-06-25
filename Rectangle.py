@@ -1,5 +1,7 @@
 from Shape import Shape
 class Rectangle(Shape):
+    def Type(self):
+        return Rectangle
     def __init__(self,length,width):
         self.Length = length
         self.Width = width
