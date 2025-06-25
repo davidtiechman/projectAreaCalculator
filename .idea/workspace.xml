@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e43c0a62-b642-45be-8e85-5abe6f5706da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shape.py" afterDir="false" />
+    <list default="true" id="e43c0a62-b642-45be-8e85-5abe6f5706da" name="Changes" comment="I finished a rectangle class.">
+      <change afterPath="$PROJECT_DIR$/Square.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -23,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,10 +56,15 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rectangle",
     "last_opened_file_path": "C:/Users/This_user/PycharmProjects/AreaCalculator"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\This_user\PycharmProjects\AreaCalculator" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AreaCalculator" />
@@ -96,6 +105,15 @@
       <option name="presentableId" value="Default" />
       <updated>1750776397453</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="I finished a rectangle class.">
+      <option name="closed" value="true" />
+      <created>1750836692177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750836692177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I finished a rectangle class." />
+    <option name="LAST_COMMIT_MESSAGE" value="I finished a rectangle class." />
   </component>
 </project>

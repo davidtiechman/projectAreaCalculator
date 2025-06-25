@@ -1,6 +1,6 @@
 # This is a sample Python script.
 from Rectangle import Rectangle
-
+from Square import Square
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
@@ -9,7 +9,7 @@ from Rectangle import Rectangle
 
 if __name__ == '__main__':
 
-    a = Rectangle(10,20)
+    a = Square(10)
     print(a.get_area())
     print(a.get_perimeter())
 
